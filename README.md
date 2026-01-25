@@ -1,59 +1,50 @@
-# AI_prompt-showcase
-prompt engineering to build AI apps
+# Technical Portfolio: AI & Data Solutions
+### Developed by Xiaoyan Pan
 
-Technical Portfolio: AI & Data Solutions
-Developed by Xiaoyan Pan
-This repository serves as a central showcase for my deployed applications, focusing on Generative AI, Financial Intelligence, and Data Analytics.
+This repository serves as a central showcase for my deployed applications, focusing on Generative AI, Financial Intelligence, and Data Analytics. 
 
-📈 Financial & Investment Intelligence
+---
+
+## 📈 Financial & Investment Intelligence
 Tools designed to provide actionable insights into equity markets using LLMs and real-time data.
 
-AlphaFlash Intraday Stock Picker
+* **[AlphaFlash Intraday Stock Picker](https://alphaflash-intraday-stock-picker-170069322954.us-west1.run.app)**
+    * *Description:* A real-time market analysis tool designed for intraday signal generation and stock selection.
+* **[MarketPulse: Biotech & GLP-1 Analyst](https://marketpulse-biotech-glp-1-analyst-170069322954.us-west1.run.app)**
+    * *Description:* Specialized sector analysis focusing on the pharmaceutical industry, specifically high-growth GLP-1 and biotech trends.
+* **[AlphaRank AI](https://alpharank-ai-170069322954.us-west1.run.app)**
+    * *Description:* Quantitative ranking and screening engine using AI-driven scoring models to evaluate equities.
 
-Core Focus: Real-time market analysis and intraday signal generation.
+---
 
-MarketPulse: Biotech & GLP-1 Analyst
-
-Core Focus: Specialized sector analysis focusing on the pharmaceutical industry and high-growth GLP-1 trends.
-
-AlphaRank AI
-
-Core Focus: Quantitative ranking and screening using AI-driven scoring models.
-
-🤖 Generative AI & Productivity
+## 🤖 Generative AI & Productivity
 Applications leveraging Large Language Models (LLMs) to automate content refinement and audio processing.
 
-ScribeAI: Smart Recorder & Translator
+* **[ScribeAI: Smart Recorder & Translator](https://scribeai-smart-recorder-and-translator-170069322954.us-west1.run.app/)**
+    * *Description:* AI-powered speech-to-text processing featuring automated translation and intelligent summarization.
+* **[DataInsight AI](https://datainsight-ai-170069322954.us-west1.run.app/)**
+    * *Description:* A conversational AI interface built for data exploration, helping users generate insights from complex datasets.
+* **[Text Refiner AI](https://text-refiner-ai-170069322954.us-west1.run.app/)**
+    * *Description:* Advanced text optimization tool for grammar correction, style adjustment, and professional tone refinement.
 
-Core Focus: Speech-to-text processing combined with automated translation and summarization.
+---
 
-DataInsight AI
+## 🔍 Specialized Tools & Portfolio
+* **[FaunaFinder](https://faunafinder-170069322954.us-west1.run.app/)**
+    * *Description:* A specialized identification tool for wildlife and fauna classification.
+* **[Personal Data Analytics Portfolio](https://xiaoyan-pan-data-analytics-portfolio-170069322954.us-west1.run.app)**
+    * *Description:* A centralized landing page showcasing my professional journey in data engineering and AI-driven analytics.
 
-Core Focus: Conversational interfaces for data exploration and insight generation.
+---
 
-Text Refiner AI
-
-Core Focus: Advanced grammar correction, style adjustment, and professional tone refinement.
-
-🔍 Specialized Tools & Portfolio
-FaunaFinder
-
-Core Focus: Computer vision or classification-based tool for identifying wildlife.
-
-Personal Data Analytics Portfolio
-
-Core Focus: A centralized hub for my professional data engineering and science projects.
-
-🛠 Tech Stack
+## 🛠 Tech Stack
 These applications are built and deployed using modern cloud-native technologies:
+* **Frontend/UI:** Streamlit, TypeScript
+* **Languages:** Python, SQL
+* **Cloud Infrastructure:** Google Cloud Platform (GCP), Google Cloud Run
+* **AI Integration:** Gemini API, OpenAI GPT-4, Whisper
 
-Frontend/UI: Streamlit, TypeScript
+---
 
-Languages: Python, SQL
-
-Cloud Infrastructure: Google Cloud Platform (GCP), Google Cloud Run (Containerized Deployment)
-
-AI Models: Gemini API, OpenAI GPT-4, Whisper (for ScribeAI)
-
-✉️ Contact
-Feel free to reach out via GitHub or through the links provided in my Data Analytics Portfolio.
+## ✉️ Contact
+Feel free to reach out via GitHub or through my [Data Analytics Portfolio](https://xiaoyan-pan-data-analytics-portfolio-170069322954.us-west1.run.app).
