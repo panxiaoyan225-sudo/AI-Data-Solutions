@@ -8,10 +8,6 @@ This repository serves as a central showcase for my deployed applications, focus
 ## 📈 Financial & Investment Intelligence
 Tools designed to provide actionable insights into equity markets using LLMs and real-time data.
 
-* **[AlphaFlash Intraday Stock Picker](https://alphaflash-intraday-stock-picker-170069322954.us-west1.run.app)**
-    * *Description:* A real-time market analysis tool designed for intraday signal generation and stock selection.
-* **[MarketPulse: Biotech & GLP-1 Analyst](https://marketpulse-biotech-glp-1-analyst-170069322954.us-west1.run.app)**
-    * *Description:* Specialized sector analysis focusing on the pharmaceutical industry, specifically high-growth GLP-1 and biotech trends.
 * **[AlphaRank AI](https://alpharank-ai-170069322954.us-west1.run.app)**
     * *Description:* Quantitative ranking and screening engine using AI-driven scoring models to evaluate equities.
 
